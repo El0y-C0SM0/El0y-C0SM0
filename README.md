@@ -1,6 +1,6 @@
 # Bão?! Sou Eloy (sim, esse é o meu nome)
 
-- 🔭 Por enquanto apenas estudando e usando para trabalhos acadêmicos
+- 🔭 Por enquanto estou apenas estudando e usando para trabalhos acadêmicos
 - 🏫 Instituição: CEFET-MG
 - 📘 Curso: Informática
 - 📖 Atualmente estou aprendendo linguagem C, HTML e CSS
