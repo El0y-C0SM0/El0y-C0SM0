@@ -11,7 +11,8 @@
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
 <img widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El0y-C0SM0&layout=compact&theme=radical">
 </div>
-                                                                                                                             
+![Snake animation](https://github.com/El0y-C0SM0/El0y-C0SM0/blob/output/github-contribution-grid-snake.svg)                                                             
+                                                             
 #
 
 Sei / estou aprendendo:
@@ -20,7 +21,7 @@ Sei / estou aprendendo:
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div> 
-![Snake animation](https://github.com/rafaballerini/El0y-C0SM0/blob/output/github-contribution-grid-snake.svg)
+
 
 #
 Uso:
