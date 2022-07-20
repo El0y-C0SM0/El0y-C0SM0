@@ -1,9 +1,9 @@
 # Bão?! Sou Eloy (sim, esse é o meu nome)
 
-- 🔭 Por enquanto estou apenas estudando e usando para trabalhos acadêmicos
 - 🏫 Instituição: CEFET-MG
 - 📘 Curso: Informática
-- 📖 Atualmente estou aprendendo linguagem C, HTML e CSS
+- 1° Ano
+- 📖 Atualmente estou aprendendo: C, HTML e CSS
 
 <div style="display: inline_block">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
