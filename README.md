@@ -1,8 +1,8 @@
 # Bão?! Sou Eloy (sim, esse é o meu nome)
 
 - 🏫 Instituição: CEFET-MG
-- 📘 Curso: Informática
-- 1° Ano
+- 🖥 Curso: Informática
+- 📘 1° Ano
 - 📖 Atualmente estou aprendendo: C, HTML e CSS
 
 <div style="display: inline_block">
