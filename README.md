@@ -3,7 +3,7 @@
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
 - 📘 Série: 1° Ano
-- 📖 Atualmente estou estudando: C, HTML, CSS e JS
+- 🚀 Atualmente estou estudando: C, HTML, CSS e JS
 
 #
 
