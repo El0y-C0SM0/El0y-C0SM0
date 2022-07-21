@@ -1,9 +1,11 @@
-# Bão?! Sou Eloy (sim, esse é o meu nome)
+# Bão?! Sou o Eloy (sim, esse é o meu nome)
 
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
 - 📘 Série: 1° Ano
 - 📖 Atualmente estou estudando: C, HTML, CSS e JS
+
+#
 
 <div style="display: inline_block">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
@@ -14,7 +16,7 @@
                                                              
 #
 
-Sei / estou aprendendo:<br>
+### Sei / estou aprendendo:<br>
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -25,7 +27,8 @@ Sei / estou aprendendo:<br>
 
 
 #
-Uso:<br>
+
+### Uso:<br>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -33,7 +36,8 @@ Uso:<br>
 </div> 
 
 #
-Tecnologias que uso:<br>
+
+### Tecnologias que uso:<br>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,6 +46,7 @@ Tecnologias que uso:<br>
 </div>   
 
 #
-Projetos meus para dar uma olhada:<br>
+
+### Projetos meus para dar uma olhada:<br>
 [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)<br>
 [Dicionário de Geográfia](https://el0y-c0sm0.github.io/Dicionario-de-Geografia/)
