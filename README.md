@@ -3,7 +3,7 @@
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
 - 📘 Série: 1° Ano
-- 🚀 Atualmente estou estudando: C, HTML, CSS e JS
+- 🚀 Atualmente estou estudando: C, HTML, CSS, JS e Python
 
 #
 
@@ -23,6 +23,7 @@
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img align="center" height="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> 
 
 
