@@ -23,7 +23,6 @@
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img align="center" height="53" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> 
 
 
@@ -52,3 +51,4 @@
 
 ### Projetos meus para dar uma olhada:<br>
 [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)<br>
+[Chess](https://edu15076.github.io/xadrez/)<br>
