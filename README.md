@@ -2,8 +2,8 @@
 
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
-- 📘 Série: 1° Ano
-- 🚀 Atualmente estou estudando: C, HTML, CSS, JS e Python
+- 📘 Série: 2° Ano
+- 🚀 Atualmente estou estudando/Sei: C, HTML, CSS, JS e Python
 
 #
 
@@ -32,7 +32,6 @@
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div> 
 
@@ -50,5 +49,5 @@
 #
 
 ### Projetos meus para dar uma olhada:<br>
-[Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)<br>
-[Chess](https://edu15076.github.io/xadrez/)<br>
+- [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)
+- [Chess](https://edu15076.github.io/xadrez/)
