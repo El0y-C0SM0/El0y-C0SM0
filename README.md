@@ -24,7 +24,7 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 
 #
 
-### Sei / estou aprendendo:<br>
+### Sei / estou estudando:<br>
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -61,4 +61,5 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 - [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)
 - [Chess](https://edu15076.github.io/xadrez/)
 - [RPG Tools](https://github.com/El0y-C0SM0/RPG-Tools)
+- [RPG Tools - Dice Bot](https://el0y-c0sm0.github.io/rpg-tools-dice-bot/site)
 - [Cosmos-Owl](https://github.com/El0y-C0SM0/Cosmos-Owl)
