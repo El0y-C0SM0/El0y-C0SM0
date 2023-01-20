@@ -1,19 +1,27 @@
 # Bão?! Sou o Eloy (sim, esse é o meu nome)
 
+### Um pouco sobre mim
+
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
 - 📘 Série: 2° Ano
 - 🚀 Sei: C, HTML, CSS e JS
 
+Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie que não me mantenho longe. Adoro ver sobre ciencias e gerais e a computação é uma das que mais me fascina, por isso estou sempre pesquisando algo novo sobre a área e de fato me dedicando a isso.
+
 #
 
-<div style="display: inline_block">
+<div align="center" style="display: inline">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El0y-C0SM0&layout=compact&theme=radical">
 </div>
 
+<div align="center" style="display: inline">
+  
 ![Snake animation](https://github.com/El0y-C0SM0/El0y-C0SM0/blob/output/github-contribution-grid-snake.svg)                                                             
-                                                             
+
+</div>
+
 #
 
 ### Sei / estou aprendendo:<br>
@@ -22,6 +30,7 @@
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div> 
 
