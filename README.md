@@ -5,7 +5,6 @@
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
 - 📘 Série: 2° Ano
-- 🚀 Sei: C, HTML, CSS e JS
 
 Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie que não me mantenho longe. Adoro ver sobre ciencias e gerais e a computação é uma das que mais me fascina, por isso estou sempre pesquisando algo novo sobre a área e de fato me dedicando a isso.
 
@@ -24,13 +23,15 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 
 #
 
-### Sei / estou estudando:<br>
+### Linguagens que sei / estou estudando:<br>
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 </div> 
 
@@ -50,6 +51,7 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
