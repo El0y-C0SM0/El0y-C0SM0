@@ -68,3 +68,5 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 - [RPG Tools](https://github.com/El0y-C0SM0/RPG-Tools)
 - [RPG Tools - Dice Bot](https://el0y-c0sm0.github.io/rpg-tools-dice-bot/site)
 - [Cosmos-Owl](https://github.com/El0y-C0SM0/Cosmos-Owl)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39214e&height=120&section=footer"/>
