@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=100&color=9924F7&width=435&lines=B%C3%A3o%3F!;Me+chamo+o+Eloy.;(Sim%2C+esse+%C3%A9+meu+nome);Me+conhe%C3%A7a+abaixo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=100&color=9924F7&width=435&lines=B%C3%A3o%3F!;Me+chamo+Eloy.;(Sim%2C+esse+%C3%A9+meu+nome);Me+conhe%C3%A7a+abaixo.)](https://git.io/typing-svg)
 
 ---
 
