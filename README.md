@@ -9,7 +9,10 @@
 Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie que não me mantenho longe. Adoro ver sobre ciencias e gerais e a computação é uma das que mais me fascina, por isso estou sempre pesquisando algo novo sobre a área e de fato me dedicando a isso.
 
 #
-
+<div align="center">
+  <p>Contador de visualizações</p>
+<img align="center" src="https://profile-counter.glitch.me/{El0y-C0SM0}/count.svg" /></p>
+</div>
 <div align="center" style="display: inline">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El0y-C0SM0&layout=compact&theme=radical">
