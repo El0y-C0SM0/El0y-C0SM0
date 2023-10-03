@@ -1,4 +1,4 @@
-name: Generate Datas
+name: snake
 
 on:
   schedule: # execute every 12 hours
@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Snake Animation
       - uses: Platane/snk@master
