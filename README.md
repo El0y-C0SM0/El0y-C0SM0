@@ -23,12 +23,12 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
 <div align="center" style="display: inline">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake.svg) -->                                  
+<!-- ![Snake animation](https://raw.githubusercontent.com/El0y-C0SM0/El0y-C0SM0/output/github-contribution-grid-snake-dark.svg) -->                              
 
 </div>
 
