@@ -15,9 +15,13 @@ Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie 
   <p>Contador de visualizações</p>
 <img align="center" src="https://profile-counter.glitch.me/{El0y-C0SM0}/count.svg" /></p>
 </div>
-<div align="center" style="display: inline">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&show_icons=true&theme=radical">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El0y-C0SM0&layout=compact&theme=radical">
+
+<div align="center" style="display: inline"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&theme=radical&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El0y-C0SM0&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
 </div>
 
 <div align="center" style="display: inline">
