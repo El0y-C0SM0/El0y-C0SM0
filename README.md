@@ -6,7 +6,7 @@
 
 - 🏫 Instituição: CEFET-MG
 - 🖥 Curso: Informática
-- 📘 Série: 2° Ano
+- 📘 Série: 3° Ano
 
 Sou alguém fascinado por aprender coisas novas e estudar para mim é um hobbie que não me mantenho longe. Adoro ver sobre ciencias e gerais e a computação é uma das que mais me fascina, por isso estou sempre pesquisando algo novo sobre a área e de fato me dedicando a isso.
 
