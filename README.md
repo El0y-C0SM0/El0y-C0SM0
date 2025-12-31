@@ -8,7 +8,7 @@
 - 🖥 Curso: Tronco Comum em Computação
 - 🎓 Formação: Técnico em Informátca pelo CEFET-MG
 
-Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fome por saber. Nesse processo reconheço que estudar é muitas vezes desafiador mas outras tantas vezes é recompensador. Portanto busco constantemente me aprofundar no estudo de alguma ciência e a computação é umas das mais fascinantes poís expôes a capacida do ser humano em abstrair sua realidade.
+Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha fome por saber. Nesse processo reconheço que estudar é muitas vezes desafiador mas também é recompensador. Portanto busco constantemente me aprofundar no estudo de alguma ciência e a computação é umas das mais fascinantes poís expõe a capacidade do ser humano em abstrair sua realidade e lidar com informações complexas.
 
 #
 
