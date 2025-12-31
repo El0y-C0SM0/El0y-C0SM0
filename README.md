@@ -45,7 +45,7 @@ Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fo
 
 #
 
-### Uso:<br>
+### Sistemas Operacionais:<br>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -54,10 +54,15 @@ Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fo
 
 #
 
-### Tecnologias que uso:<br>
+### Ferramentas:<br>
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZED-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<!--
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -66,11 +71,12 @@ Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fo
 
 #
 
-### Projetos meus para dar uma olhada:<br>
+### Confira meus principais projetos fixados.
+<!--
 - [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)
 - [Chess](https://edu15076.github.io/xadrez/)
-- [RPG Tools](https://github.com/El0y-C0SM0/RPG-Tools)
 - [RPG Tools - Dice Bot](https://el0y-c0sm0.github.io/rpg-tools-dice-bot/site)
 - [Cosmos-Owl](https://github.com/El0y-C0SM0/Cosmos-Owl)
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39214e&height=120&section=footer"/>
