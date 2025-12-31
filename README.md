@@ -11,10 +11,6 @@
 Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fome por saber. Nesse processo reconheço que estudar é muitas vezes desafiador mas outras tantas vezes é recompensador. Portanto busco constantemente me aprofundar no estudo de alguma ciência e a computação é umas das mais fascinantes poís expôes a capacida do ser humano em abstrair sua realidade.
 
 #
-<div align="center">
-  <p>Contador de visualizações</p>
-<img align="center" src="https://profile-counter.glitch.me/{El0y-C0SM0}/count.svg" /></p>
-</div>
 
 <div align="center" style="display: inline"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&theme=radical&show_icons=true&rank_icon=github" />
