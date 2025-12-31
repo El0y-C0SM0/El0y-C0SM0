@@ -12,12 +12,9 @@ Sou alguém fascinado por aprender coisas novas e a tecnologia alimenta minha fo
 
 #
 
-<div align="center" style="display: inline"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El0y-C0SM0&theme=radical&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El0y-C0SM0&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+<div align="center" style="display: inline">
+  <img height=200 align="center" src="./profile/stats.svg" />
+  <img height=200 align="center" src="./profile/top-langs.svg" />
 </div>
 
 <div align="center" style="display: inline">
