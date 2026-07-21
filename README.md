@@ -5,8 +5,8 @@
 ### Um pouco sobre mim
 
 - 🏫 Instituição: UFMG
-- 🖥 Curso: Tronco Comum em Computação
-- 🎓 Formação: Técnico em Informátca pelo CEFET-MG
+- 🖥 Curso atualmente: Ciência da Computação
+- 🎓 Sou formado em: Técnico em Informátca pelo CEFET-MG
 
 Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha fome por saber. Nesse processo reconheço que estudar é muitas vezes desafiador mas também é recompensador. Portanto busco constantemente me aprofundar no estudo de alguma ciência e a computação é umas das mais fascinantes poís expõe a capacidade do ser humano em abstrair sua realidade e lidar com informações complexas.
 
@@ -45,16 +45,17 @@ Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha
 
 #
 
-### Sistemas Operacionais:<br>
+### Usarios dos seguintes Sistemas Operacionais:<br>
 <div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> -->
 </div> 
 
 #
 
-### Ferramentas:<br>
+### Ferramentas e IDEs que lido:<br>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/ZED-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
