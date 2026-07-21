@@ -2,13 +2,13 @@
 
 ---
 
-### Um pouco sobre mim nesse resumo
+### Um pouco sobre mim
 
 - 🏫 Graduando em Ciência da Computação – **UFMG**
 - 🎓 Técnico em Informática – **CEFET-MG**
 - 💻 Interessando am algoritmos, algebra linear, desenvolvimento web e sistemas
 
-Além disso, tenho como característica estar sempre a procura de entender como problemas podem ser solucionados e como as soluções podem (ou não) ser otimizadas. 
+
 
 Nos links fixados pode me encontrar em outras redes e descobrir mais sobre mim.
 
