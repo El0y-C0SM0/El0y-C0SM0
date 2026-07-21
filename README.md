@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=100&color=9924F7&width=435&lines=B%C3%A3o%3F!;Me+chamo+Eloy.;(Sim%2C+esse+%C3%A9+meu+nome);Me+conhe%C3%A7a+abaixo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100&color=9924F7&width=435&lines=B%C3%A3o%3F!;Me+chamo+Eloy.;Me+conhe%C3%A7a+abaixo.)](https://git.io/typing-svg)
 
 ---
 
-### Um pouco sobre mim
+### Um pouco sobre mim nesse resumo
 
-- 🏫 Instituição: UFMG
-- 🖥 Curso atualmente: Ciência da Computação
-- 🎓 Sou formado em: Técnico em Informátca pelo CEFET-MG
+- 🏫 Graduando em Ciência da Computação – **UFMG**
+- 🎓 Técnico em Informática – **CEFET-MG**
+- 💻 Interessando am algoritmos, algebra linear, desenvolvimento web e sistemas
 
-Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha fome por saber. Nesse processo reconheço que estudar é muitas vezes desafiador mas também é recompensador. Portanto busco constantemente me aprofundar no estudo de alguma ciência e a computação é umas das mais fascinantes poís expõe a capacidade do ser humano em abstrair sua realidade e lidar com informações complexas.
+Além disso, tenho como característica estar sempre a procura de entender como problemas podem ser solucionados e como as soluções podem (ou não) ser otimizadas. 
+
+Nos links fixados pode me encontrar em outras redes e descobrir mais sobre mim.
 
 #
 
@@ -31,38 +33,30 @@ Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha
 
 #
 
-### Linguagens que sei / estou estudando:<br>
+### Stacks:<br>
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+
+### Ferramentas e Ambientes:<br>
 <div style="display: inline_block"><br>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div> 
-
-
-#
-
-### Usarios dos seguintes Sistemas Operacionais:<br>
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
-<!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> -->
-</div> 
-
-#
-
-### Ferramentas e IDEs que lido:<br>
-<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/ZED-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" />
 <!--
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> -->
@@ -73,6 +67,9 @@ Sou uma pessoa fascinada por aprender coisas novas e a tecnologia alimenta minha
 #
 
 ### Confira meus principais projetos fixados.
+
+No entanto sinta-se livre para explorar outros dos meus repositórios, neles encontrará um arcervo de exercicios e projetos que acompanham minha jornada de profissional e de aprendizado. 
+
 <!--
 - [Casa do Hobbit](https://el0y-c0sm0.github.io/Casa-do-Hobbit/)
 - [Chess](https://edu15076.github.io/xadrez/)
