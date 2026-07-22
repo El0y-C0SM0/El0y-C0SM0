@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eloy Maciel</title>
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet"> -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page">
+        PAGE 1.
+    </div>
+    <header>
+        <h1>MINHA WEBPAGE</h1>
+        <h2 id="written-by">written by</h2>
+        <h2>Eloy Maciel</h2>
+    </header>
+    <main>
+        <h4 class="cut">FADE IN</h4>
+        <section class="scene">
+            <h2 class="scene-heading">CENA 1 - SOBRE MIM</h2>
+            <p class="action">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet  sem dapibus, dapibus lorem eu, gravida ante. Pellentesque molestie  rutrum aliquam. Nunc pellentesque leo posuere velit ullamcorper  consectetur. Fusce arcu elit, pulvinar non mauris et, volutpat molestie  velit. Morbi vel metus vitae mauris hendrerit malesuada. Nullam sit amet tincidunt eros. Praesent posuere sagittis nisl ac euismod. Donec  iaculis hendrerit lorem sit amet imperdiet.
+            </p>
+        </section>
+        <section class="scene">
+            <h2 class="scene-heading">CENA 2 - ESTUDO, CEFET-MG</h2>
+            <p class="action">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet  sem dapibus, dapibus lorem eu, gravida ante. Pellentesque molestie  rutrum aliquam. Nunc pellentesque leo posuere velit ullamcorper  consectetur. Fusce arcu elit, pulvinar non mauris et, volutpat molestie  velit. Morbi vel metus vitae mauris hendrerit malesuada. Nullam sit amet tincidunt eros. Praesent posuere sagittis nisl ac euismod. Donec  iaculis hendrerit lorem sit amet imperdiet.
+            </p>
+            <div class="dialogue">
+                <h3 class="character">Eloy</h3>
+                <p>Espero que isso esteja ficando bom, seria triste se não. No entanto, parece estar ficando um site inicialmente agradável, e que carrega rápido.</p>
+            </div>
+        </section>
+        <div id="projects">
+            <div class="project">
+                <h2 class="project-title">Projeto 1</h2>
+                <h4 class="project-meta">bla bla bla</h4>
+                <p class="project-synopsis">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet  sem dapibus, dapibus lorem eu, gravida ante. Pellentesque molestie  rutrum aliquam.
+                </p>
+                <a class="trailer cut" href="">[ TRAILER (Github) ]</a>
+            </div>
+            <div class="project">
+                <h2 class="project-title">Projeto 2</h2>
+                <h4 class="project-meta">bla bla bla</h4>
+                <p class="project-synopsis">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet  sem dapibus, dapibus lorem eu, gravida ante. Pellentesque molestie  rutrum aliquam.
+                </p>
+                <a class="trailer cut" href="">[ TRAILER (Github) ]</a>
+            </div>
+            <!-- <div class="project">
+                <h2 class="project-title">Projeto 3</h2>
+                <h4 class="project-meta">bla bla bla</h4>
+                <p class="project-synopsis">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet  sem dapibus, dapibus lorem eu, gravida ante. Pellentesque molestie  rutrum aliquam.
+                </p>
+                <a class="trailer cut" href="">TRAILER</a>
+            </div> -->
+        </div>
+        <h4 class="cut">FADE OUT</h4>
+        <h2 id="fim">FIM</h2>
+    </main>
+    <div id="theme-anchor">
+        <div id="theme-toggle">[ Luzes: ACESAS ]</div>
+    </div>
+    <footer>
+        <h2>--- Cast ---</h2>
+        <ul>
+            <li><a href="" class="cast-link" id="email-link"><span class="cast-name">Email</span><span class="cast-actor" id="email-text">carregando...</span></a></li>
+            <li><a href="" class="cast-link"><span class="cast-name">Github</span><span class="cast-actor">El0y-C0SM0</span></a></li>
+            <li><a href="" class="cast-link"><span class="cast-name">LinkedIn</span><span class="cast-actor">eloy-maciel</span></a></li>
+        </ul>
+        <h4 class="credit-copyright">© MMXXVI ELOY MACIEL</h4>
+        <div style="margin-top: 0.8rem; font-size: 0.65rem; opacity: 0.3; letter-spacing: 3px; text-transform: uppercase;">
+            FILMADO EM BELO HORIZONTE · 35MM · COR
+        </div>
+    </footer>
+    <script>
+        const toggleBtn = document.getElementById('theme-toggle');
+        const html = document.documentElement; 
+
+        function setTheme(theme) {
+            if (theme === 'dark') {
+                html.setAttribute('data-theme', 'dark');
+                toggleBtn.textContent = '[ LUZES: APAGADAS ]';
+            } else {
+                html.removeAttribute('data-theme');
+                toggleBtn.textContent = '[ LUZES: ACESAS ]';
+            }
+            localStorage.setItem('theme', theme);
+        }
+
+        function toggleTheme() {
+            const currentTheme = html.getAttribute('data-theme');
+            if (currentTheme === 'dark') {
+                setTheme('light');
+            } else {
+                setTheme('dark');
+            }
+        }
+
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            setTheme('dark');
+        } else if (savedTheme === 'light') {
+            setTheme('light');
+        } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            setTheme('dark');
+        }
+
+        toggleBtn.addEventListener('click', toggleTheme);
+
+        const user = 'eloy.ribeiro.maciel';
+        const domain = 'gmail.com';
+        const emailLink = document.getElementById('email-link');
+        const emailText = document.getElementById('email-text');
+
+        if (emailLink) {
+
+            emailLink.addEventListener('click', function(e) {
+                e.preventDefault();
+                window.location.href = 'mailto:' + user + '@' + domain;
+            });
+
+            emailText.innerText = user + '@' + domain;
+        }
+    </script>
+</body>
+</html>
