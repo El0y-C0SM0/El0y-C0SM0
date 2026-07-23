@@ -6,6 +6,11 @@
     <title>Eloy Maciel</title>
     <!-- <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet"> -->
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="16x16" href="profile/favicon.ico" />
+    <meta name="robots" content="index, follow" />
 </head>
 <body>
     <div class="page">
@@ -74,7 +79,7 @@
             <li><a href="" class="cast-link"><span class="cast-name">LinkedIn</span><span class="cast-actor">eloy-maciel</span></a></li>
         </ul>
         <h4 class="credit-copyright">© MMXXVI ELOY MACIEL</h4>
-        <div style="margin-top: 0.8rem; font-size: 0.65rem; opacity: 0.3; letter-spacing: 3px; text-transform: uppercase;">
+        <div style="margin-top: 0.8rem; font-size: 0.65rem; opacity: 0.45; letter-spacing: 3px; text-transform: uppercase;">
             FILMADO EM BELO HORIZONTE · 35MM · COR
         </div>
     </footer>
@@ -119,7 +124,6 @@
         const emailText = document.getElementById('email-text');
 
         if (emailLink) {
-
             emailLink.addEventListener('click', function(e) {
                 e.preventDefault();
                 window.location.href = 'mailto:' + user + '@' + domain;
